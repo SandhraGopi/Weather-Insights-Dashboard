@@ -109,6 +109,15 @@ These screenshots demonstrate the complete workflow and final output.
 
 ---
 
+## Dashboard Deployment Status
+
+The Power BI dashboard was developed and tested locally using Power BI Desktop.
+
+Publishing to Power BI Service requires a work or school Microsoft account.
+Deployment is currently pending and will be completed once access credentials are provided.
+
+All dashboard visuals, interactions, and insights are demonstrated through screenshots included in this repository.
+
 ##  Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from raw data to interactive insights, using Python and Power BI.  
