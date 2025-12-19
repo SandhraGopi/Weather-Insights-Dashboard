@@ -73,7 +73,7 @@ project/
 - Secure password-protected access
 
 ##  Deployment
-**Live Dashboard:** [https://weather-insights-dashboard-msqijgvhidtsrbd7lpte8s.streamlit.app](https://weather-insights-dashboard-msqijgvhidtsrbd7lpte8s.streamlit.app)  
+**Live Dashboard:** [https://weather-insights-dashboard-oebksxui2xqtsrnjtf5itc.streamlit.app/](https://weather-insights-dashboard-oebksxui2xqtsrnjtf5itc.streamlit.app/)
 **Access Password:** `weather2025`
 
 ##  Screenshots
